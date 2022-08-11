@@ -13,4 +13,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Моя статистика:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon666Gridanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jon666Grid&theme=radical)
