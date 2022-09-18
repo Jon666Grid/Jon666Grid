@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Evgeny</h1>
+<h1 align="center">Hello, I am Evgeniy</h1>
 
 🎯 Мои цели:
 
