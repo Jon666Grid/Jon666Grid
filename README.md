@@ -16,3 +16,6 @@ He was trained at Yandex Practicum, specialty Frontend developer.
 
 ## Активность:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jon666Grid&daniilshat&theme=solarized_dark)
+
+## codewars:
+[![codewars](https://www.codewars.com/users/Jon666Grid/badges/small)](https://www.codewars.com/users/username)
