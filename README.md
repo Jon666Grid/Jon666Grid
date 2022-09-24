@@ -19,3 +19,5 @@ He was trained at Yandex Practicum, specialty Frontend developer.
 
 ### codewars:
 [![](https://www.codewars.com/users/Jon666Grid/badges/small)](https://www.codewars.com/users/Jon666Grid)
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) :Jon666Grid
