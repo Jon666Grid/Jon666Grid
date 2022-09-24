@@ -1,11 +1,7 @@
 <h1 align="center">Hello, I am Evgeniy</h1>
-
-🎯 Мои цели:
-
-* Писать чистый код;
-* Работать в дружной команде;
-* Работать над интересными проектами;
-* Приносить пользу клиентам.
+````
+He completed full training at Yandex Practicum, majoring in Front-End developer.
+````
 
 ## Мой стэк технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,5 +15,3 @@
 
 ## Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jon666Grid&daniilshat&theme=solarized_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jon666Grid&daniilshat&theme=solarized_dark)
