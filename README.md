@@ -19,5 +19,5 @@
 
 ## Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jon666Grid&daniilshat&theme=solarized_dark)
-![top](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon666Grid&anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon666Grid&hide=javascript,css,scss,html&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jon666Grid&daniilshat&theme=solarized_dark)
