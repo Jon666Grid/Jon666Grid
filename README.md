@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Evgeniy</h1>
-````
+```
 He completed full training at Yandex Practicum, majoring in Front-End developer.
-````
+```
 
 ## Мой стэк технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
