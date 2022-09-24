@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Evgeniy</h1>
 
 ```
-He completed full training at Yandex Practicum, majoring in Front-End developer.
+He was trained at Yandex Practicum, specialty Frontend developer.
 ```
 
 ## Мой стэк технологий:
